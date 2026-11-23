@@ -1,0 +1,2 @@
+put songs in the folder in WAV format only. 
+make sure to keep the bame same for testing the song when running code.
